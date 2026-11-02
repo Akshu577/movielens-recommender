@@ -1,6 +1,6 @@
 # Movie Recommender: Matrix Factorization, Overfitting and Popularity Bias
 
-**Live page:** https://akshu577.github.io/movielens-recommender/
+**Live app:** https://akshu-movie-recs.streamlit.app · **Full report:** https://akshu577.github.io/movielens-recommender/
 
 I built a matrix factorization recommender from scratch with stochastic gradient descent (no recommender library) on MovieLens 100K: 100,000 ratings from 943 users on 1,682 movies. Then I looked at two problems real recommenders have, overfitting and popularity bias.
 
